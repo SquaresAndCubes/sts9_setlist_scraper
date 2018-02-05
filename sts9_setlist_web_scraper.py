@@ -47,8 +47,8 @@ def scrape_setlist(html):
     print(city)
     print(state)
     print('\n')
-    print(city)
-    #test
+
+
 
 
     # search input html for setlist data
