@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="925">
-              <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+              <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
               <folding>
                 <element signature="e#70#101#0" expanded="true" />
               </folding>
@@ -153,7 +153,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -310,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517816675829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test">
+      <created>1517816756230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517816756230</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -486,7 +493,7 @@
     <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
-          <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
           <folding>
             <element signature="e#70#101#0" expanded="true" />
           </folding>
