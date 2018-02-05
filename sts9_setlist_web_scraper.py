@@ -4,7 +4,7 @@
 from pymongo import MongoClient
 from bs4 import BeautifulSoup
 import re
-import urllib2
+import urllib.request
 import os
 
 #####CONNECT TO SETLISTS COLLECTION ON sts9_db###
@@ -20,7 +20,7 @@ def scrape_setlist(html):
 
     # search input html for show date and venue store as string
 
-    date_venue = html.find('h2', {'itemprop': 'name'}).string.encode('utf-8')
+    date_venue = html.find('h2', {'itemprop': 'name'}).string
 
     print(date_venue)
 
@@ -69,17 +69,16 @@ def scrape_setlist(html):
 # main loop for cycling through multiple html files
 ##SET LIST URL##
 
-in_url = open('urls.txt','r')
-
+in_url = open('urls.txt')
 for line in in_url:
 
-    req = urllib2.Request(str(line))
+    req = urllib.request.Request(str(line))
 
 
     try:
-        resp = urllib2.urlopen(req)
+        resp = urllib.request.urlopen(req)
 
-    except urllib2.HTTPError as e:
+    except urllib.request.HTTPError as e:
         if e.code == 404:
             print('*******************\n*********404*******\n*******************\n'+line)
             print('\n')
