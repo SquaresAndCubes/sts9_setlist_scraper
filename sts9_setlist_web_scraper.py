@@ -31,7 +31,7 @@ def scrape_setlist(html):
 
     yyyy_mm_dd = date_venue_split[0].split(".")
     venue = date_venue_split[1].strip()
-    city_state = re.split(', | ', date_venue_split[2])
+    city_state = date_venue_split[2].split(', ')
 
     city = city_state[0].strip()
     state = city_state[1].strip()
