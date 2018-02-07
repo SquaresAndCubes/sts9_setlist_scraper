@@ -9,7 +9,7 @@ import os
 
 #####CONNECT TO SETLISTS COLLECTION ON sts9_db###
 
-#sts9 = MongoClient('10.0.0.16', 27017).sts9_db.setlists
+sts9 = MongoClient('10.0.0.16', 27017).sts9_db.setlists
 
 #################################################
 
@@ -20,33 +20,40 @@ def scrape_setlist(html):
 
     # search input html for show date and venue store as string
 
-    date_venue = html.find('h2', {'itemprop': 'name'}).string
+    date_venue_city_state = html.find('h2', {'itemprop': 'name'}).string.strip()
 
-    print(date_venue)
+    #parse date venue city and state from scraped string
 
-    # unformatted string is split
-    date_venue_split = date_venue.split(" :: ")
+    date_venue_city = date_venue_city_state[:-2].replace(',','')
 
-    # splits are stored to separate vars
+    date_venue_city_ps = date_venue_city.split('::')
 
-    yyyy_mm_dd = date_venue_split[0].split(".")
-    venue = date_venue_split[1].strip()
-    city_state = date_venue_split[2].split(', ')
+    date = date_venue_city_ps[0].strip()
 
-    city = city_state[0].strip()
-    state = city_state[1].strip()
+    venue = date_venue_city_ps[1].strip()
 
-    yyyy = yyyy_mm_dd[0].strip()
-    mm = yyyy_mm_dd[1].strip()
-    dd = yyyy_mm_dd[2].strip()
+    city = date_venue_city_ps[2].strip()
 
-    print(yyyy)
-    print(mm)
-    print(dd)
-    print(venue)
-    print(city)
-    print(state)
-    print('\n')
+    date_ps = date.split('.')
+
+    yyyy = date_ps[0]
+
+    mm = date_ps[1]
+
+    dd = date_ps[2]
+
+    state = date_venue_city_state[-2:]
+
+    #print(date_venue_city_state)
+
+    #print(yyyy+'\n'+mm+'\n'+dd+'\n'+venue+'\n'+city+'\n'+state+'\n')
+
+    return yyyy, mm, dd, venue, city, state
+
+
+
+
+
 
     # search input html for setlist data
 
@@ -54,22 +61,25 @@ def scrape_setlist(html):
 
     ##create show document for submission to mongo sts9 db
 
-    # show = {"year": str.rstrip(yyyy),
-    #         "month": str.rstrip(mm),
-    #         "day": str.rstrip(dd),
-    #         "venue": str.rstrip(venue),
-    #         "city": str.rstrip(city),
-    #         "state": str.rstrip(state)}
-    #
-    # # insert show document to sts9_db, setlists collection
-    #
-    # sts9.insert_one(show)
+def save_show(in_year, in_month, in_day, in_venue, in_city, in_state):
+
+    show = {"year": str.rstrip(in_year),
+            "month": str.rstrip(in_month),
+            "day": str.rstrip(in_day),
+            "venue": str.rstrip(in_venue),
+            "city": str.rstrip(in_city),
+            "state": str.rstrip(in_state)}
+
+    # insert show document to sts9_db, setlists collection
+
+    sts9.insert_one(show)
 
 
 # main loop for cycling through multiple html files
 ##SET LIST URL##
 
 in_url = open('urls.txt')
+
 for line in in_url:
 
     req = urllib.request.Request(str(line))
@@ -87,6 +97,8 @@ for line in in_url:
 
         body = resp.read()
         soup = BeautifulSoup(body, 'html.parser')
-        scrape_setlist(soup)
+
+        save_show(scrape_setlist(soup))
 
 in_url.close()
+sts9.close()
