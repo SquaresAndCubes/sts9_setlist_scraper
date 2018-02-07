@@ -3,13 +3,13 @@
 # Version 0.1#
 from pymongo import MongoClient
 from bs4 import BeautifulSoup
-import re
 import urllib.request
-import os
 
 #####CONNECT TO SETLISTS COLLECTION ON sts9_db###
 
-sts9 = MongoClient('10.0.0.16', 27017).sts9_db.setlists
+mongo_client = MongoClient('10.0.0.36', 27017)\
+
+sts9db = mongo_client.sts9_db.setlists
 
 #################################################
 
@@ -22,9 +22,9 @@ def scrape_setlist(html):
 
     date_venue_city_state = html.find('h2', {'itemprop': 'name'}).string.strip()
 
-    #parse date venue city and state from scraped string
+    # parse date venue city and state from scraped string
 
-    date_venue_city = date_venue_city_state[:-2].replace(',','')
+    date_venue_city = date_venue_city_state[:-2].replace(',', '')
 
     date_venue_city_ps = date_venue_city.split('::')
 
@@ -44,61 +44,43 @@ def scrape_setlist(html):
 
     state = date_venue_city_state[-2:]
 
-    #print(date_venue_city_state)
+    print(date_venue_city_state)
 
-    #print(yyyy+'\n'+mm+'\n'+dd+'\n'+venue+'\n'+city+'\n'+state+'\n')
+    print(yyyy+'\n'+mm+'\n'+dd+'\n'+venue+'\n'+city+'\n'+state+'\n')
 
-    return yyyy, mm, dd, venue, city, state
+    show = {'year': yyyy,
+            'month': mm,
+            'day': dd,
+            'venue': venue,
+            'city': city,
+            'state': state}
 
+    sts9db.insert_one(show)
 
-
-
-
-
-    # search input html for setlist data
-
-
-
-    ##create show document for submission to mongo sts9 db
-
-def save_show(in_year, in_month, in_day, in_venue, in_city, in_state):
-
-    show = {"year": str.rstrip(in_year),
-            "month": str.rstrip(in_month),
-            "day": str.rstrip(in_day),
-            "venue": str.rstrip(in_venue),
-            "city": str.rstrip(in_city),
-            "state": str.rstrip(in_state)}
-
-    # insert show document to sts9_db, setlists collection
-
-    sts9.insert_one(show)
 
 
 # main loop for cycling through multiple html files
 ##SET LIST URL##
 
-in_url = open('urls.txt')
+in_url = open('urls2.txt')
 
 for line in in_url:
 
     req = urllib.request.Request(str(line))
-
 
     try:
         resp = urllib.request.urlopen(req)
 
     except urllib.request.HTTPError as e:
         if e.code == 404:
-            print('*******************\n*********404*******\n*******************\n'+line)
+            print('*******************\n*********404*******\n*******************\n' + line)
             print('\n')
 
     else:
 
         body = resp.read()
         soup = BeautifulSoup(body, 'html.parser')
-
-        save_show(scrape_setlist(soup))
+        scrape_setlist(soup)
 
 in_url.close()
-sts9.close()
+mongo_client.close()
