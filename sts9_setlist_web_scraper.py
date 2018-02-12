@@ -7,9 +7,9 @@ import urllib.request
 
 #####CONNECT TO SETLISTS COLLECTION ON sts9_db###
 
-mongo_client = MongoClient('10.0.0.36', 27017)\
+#mongo_client = MongoClient('10.0.0.36', 27017)\
 
-sts9db = mongo_client.sts9_db.setlists
+#sts9db = mongo_client.sts9_db.setlists
 
 #################################################
 
@@ -48,14 +48,22 @@ def scrape_setlist(html):
 
     print(yyyy+'\n'+mm+'\n'+dd+'\n'+venue+'\n'+city+'\n'+state+'\n')
 
-    show = {'year': yyyy,
-            'month': mm,
-            'day': dd,
-            'venue': venue,
-            'city': city,
-            'state': state}
+    #END Venue and Date Parsing###################################################
 
-    sts9db.insert_one(show)
+    ##Begin Parsing Setlist Data####
+
+    setlist_raw = html.find('span', {'class': 'lang-en'}).string
+
+    print(setlist_raw)
+
+    # show = {'year': yyyy,
+    #         'month': mm,
+    #         'day': dd,
+    #         'venue': venue,
+    #         'city': city,
+    #         'state': state}
+    #
+    # sts9db.insert_one(show)
 
 
 
@@ -83,4 +91,4 @@ for line in in_url:
         scrape_setlist(soup)
 
 in_url.close()
-mongo_client.close()
+#mongo_client.close()
