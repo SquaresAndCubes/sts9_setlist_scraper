@@ -7,9 +7,10 @@ name = "pypi"
 
 [dev-packages]
 
-pymongo = "*"
+pymongo = "==3.6.0"
 lxml = "*"
 "beautifulsoup4" = "*"
+dnspython = "*"
 
 
 [packages]

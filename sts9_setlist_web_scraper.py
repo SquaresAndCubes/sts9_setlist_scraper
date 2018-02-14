@@ -7,9 +7,9 @@ import urllib.request
 
 #####CONNECT TO SETLISTS COLLECTION ON sts9_db###
 
-#mongo_client = MongoClient('10.0.0.36', 27017)\
+mongo_client = MongoClient('labops-bldr-lnx', 27017)
 
-#sts9db = mongo_client.sts9_db.setlists
+sts9db = mongo_client.sts9_db.setlists
 
 #################################################
 
@@ -65,9 +65,6 @@ def scrape_setlist(html):
 
     setlist = list(dict.fromkeys(pre_setlist))
 
-    # for song in pre_songs:
-    #     setlist.append(song.split('>'))
-
     print(pre_songs)
 
     print(setlist)
@@ -78,14 +75,15 @@ def scrape_setlist(html):
 
 
 
-    # show = {'year': yyyy,
-    #         'month': mm,
-    #         'day': dd,
-    #         'venue': venue,
-    #         'city': city,
-    #         'state': state}
-    #
-    # sts9db.insert_one(show)
+    show = {'year': yyyy,
+            'month': mm,
+            'day': dd,
+            'venue': venue,
+            'city': city,
+            'state': state,
+            'setlist': setlist}
+
+    sts9db.insert_one(show)
 
 
 
@@ -113,4 +111,4 @@ for line in in_url:
         scrape_setlist(soup)
 
 in_url.close()
-#mongo_client.close()
+mongo_client.close()
