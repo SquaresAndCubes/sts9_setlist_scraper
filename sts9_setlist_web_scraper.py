@@ -44,7 +44,7 @@ def scrape_setlist(html):
 
     state = date_venue_city_state[-2:]
 
-    print(date_venue_city_state)
+    print(date_venue_city_state+'\n')
 
     print(yyyy+'\n'+mm+'\n'+dd+'\n'+venue+'\n'+city+'\n'+state+'\n')
 
@@ -59,6 +59,10 @@ def scrape_setlist(html):
 
     for song in pre_songs:
         print(song.split('>'))
+
+    print('\n')
+
+    print('--------------------------------------------------')
 
 
 
@@ -76,7 +80,7 @@ def scrape_setlist(html):
 # main loop for cycling through multiple html files
 ##SET LIST URL##
 
-in_url = open('urls2.txt')
+in_url = open('urls.txt')
 
 for line in in_url:
 
