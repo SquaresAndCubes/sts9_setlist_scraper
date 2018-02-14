@@ -66,11 +66,20 @@ def scrape_setlist(html):
 
     setlist = list(dict.fromkeys(pre_setlist))
 
+    ###grab official setlist string###
+
+    try:
+        og_setlist = html.find('span', {'class': 'lang-en'}).string.strip()
+    except AttributeError:
+        og_setlist = ''
+
     #visible output for dubugging parsing errors
 
     print(pre_songs)
 
     print(setlist)
+
+    print(og_setlist)
 
     print('\n')
 
@@ -84,7 +93,8 @@ def scrape_setlist(html):
             'venue': venue,
             'city': city,
             'state': state,
-            'setlist': setlist}
+            'setlist': setlist,
+            'og_setlist': og_setlist}
 
     #submit to database
 
