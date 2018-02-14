@@ -52,9 +52,11 @@ def scrape_setlist(html):
 
     ##Begin Parsing Setlist Data####
 
-    setlist_raw = html.find('span', {'class': 'lang-en'}).string
 
-    print(setlist_raw)
+
+    print(html.find('td', {'class': 'play'}).next_sibling.next_sibling.text)
+
+
 
     # show = {'year': yyyy,
     #         'month': mm,
