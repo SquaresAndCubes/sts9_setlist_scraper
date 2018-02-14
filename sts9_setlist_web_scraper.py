@@ -1,6 +1,6 @@
 ####HTML SETLIST SCRAPER########
 # BY: Brent Vaalburg#
-# Version 0.1#
+# Version 1.0#
 from pymongo import MongoClient
 from bs4 import BeautifulSoup
 import urllib.request
@@ -62,8 +62,11 @@ def scrape_setlist(html):
     for song in pre_songs:
         pre_setlist.extend([x.strip() for x in song.split('>')])
 
+    #remove duplicates finalizing setlist list
 
     setlist = list(dict.fromkeys(pre_setlist))
+
+    #visible output for dubugging parsing errors
 
     print(pre_songs)
 
@@ -73,7 +76,7 @@ def scrape_setlist(html):
 
     print('--------------------------------------------------')
 
-
+    #Show Object for DB submission
 
     show = {'year': yyyy,
             'month': mm,
@@ -83,11 +86,12 @@ def scrape_setlist(html):
             'state': state,
             'setlist': setlist}
 
+    #submit to database
+
     sts9db.insert_one(show)
 
-
-
 # main loop for cycling through multiple html files
+
 ##SET LIST URL##
 
 in_url = open('urls2.txt')
