@@ -54,11 +54,20 @@ def scrape_setlist(html):
 
     pre_songs = []
 
-    for td in html.find_all('td', {'class': 'play'}):
-        pre_songs.append(td.next_sibling.next_sibling.text)
+    #setlist = []
 
-    for song in pre_songs:
-        print(song.split('>'))
+    for td in html.find_all('td', {'class': 'play'}):
+        pre_songs.append(td.next_sibling.next_sibling.text.replace('(1)','').replace('(2)','').strip())
+
+    setlist = list(dict.fromkeys(pre_songs))
+
+    # for song in pre_songs:
+    #     setlist.append(song.split('>'))
+
+    print(pre_songs)
+
+    for song in setlist:
+        print(song)
 
     print('\n')
 
@@ -80,7 +89,7 @@ def scrape_setlist(html):
 # main loop for cycling through multiple html files
 ##SET LIST URL##
 
-in_url = open('urls.txt')
+in_url = open('urls2.txt')
 
 for line in in_url:
 
