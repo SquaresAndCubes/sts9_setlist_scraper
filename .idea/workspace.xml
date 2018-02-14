@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="749d18ca-299a-4794-9ad4-0b1a576d658b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/sts9_setlist_web_scraper.py" afterPath="$PROJECT_DIR$/sts9_setlist_web_scraper.py" />
-      <change beforePath="$PROJECT_DIR$/urls.txt" afterPath="$PROJECT_DIR$/urls.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +37,8 @@
       <file leaf-file-name="sts9_setlist_web_scraper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+            <state relative-caret-position="-1578">
+              <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="51" />
               <folding>
                 <element signature="e#70#101#0" expanded="true" />
               </folding>
@@ -439,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518643722949</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Version 1.1 - Added OG setlist">
+      <created>1518645181577</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1518645181577</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -460,7 +465,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36958763" sideWeight="0.5020855" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369035" sideWeight="0.4979145" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369035" sideWeight="0.4979145" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28632027" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -509,7 +514,8 @@
     <MESSAGE value="Added (1) and (2) stripping from strings.  And remove duplicates." />
     <MESSAGE value="Breaks apart song transitions." />
     <MESSAGE value="Version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
+    <MESSAGE value="Version 1.1 - Added OG setlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1 - Added OG setlist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -904,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        <state relative-caret-position="-1578">
+          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="51" />
           <folding>
             <element signature="e#70#101#0" expanded="true" />
           </folding>
