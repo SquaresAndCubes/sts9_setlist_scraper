@@ -52,9 +52,13 @@ def scrape_setlist(html):
 
     ##Begin Parsing Setlist Data####
 
+    pre_songs = []
 
+    for td in html.find_all('td', {'class': 'play'}):
+        pre_songs.append(td.next_sibling.next_sibling.text)
 
-    print(html.find('td', {'class': 'play'}).next_sibling.next_sibling.text)
+    for song in pre_songs:
+        print(song.split('>'))
 
 
 
