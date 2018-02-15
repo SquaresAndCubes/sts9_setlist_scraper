@@ -85,11 +85,13 @@ def scrape_setlist(html):
 
     print(og_setlist)
 
+    print('\n')
+
     print(image_url)
 
     print('\n')
 
-    print('--------------------------------------------------')
+
 
     #Show Object for DB submission
 
@@ -106,6 +108,8 @@ def scrape_setlist(html):
     #submit to database
 
     sts9db.insert_one(show)
+
+    urllib.request.urlretrieve('http:'+image_url, '/IMAGES/'+yyyy+'_'+mm+'_'+dd+'_'+venue+'_'+city+'_'+state+'.jpg')
 
 # main loop for cycling through multiple html files
 
@@ -130,6 +134,8 @@ for line in in_url:
         body = resp.read()
         soup = BeautifulSoup(body, 'html.parser')
         scrape_setlist(soup)
+
+        print('--------------------------------------------------')
 
 in_url.close()
 mongo_client.close()
