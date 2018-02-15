@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py" line="106" />
+    <bookmark url="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py" line="113" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749d18ca-299a-4794-9ad4-0b1a576d658b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/sts9_setlist_web_scraper.py" afterPath="$PROJECT_DIR$/sts9_setlist_web_scraper.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +26,7 @@
       <file leaf-file-name="sts9_setlist_scraper.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
+            <state relative-caret-position="64">
               <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="25" />
               <folding>
                 <element signature="e#68#99#0" expanded="true" />
@@ -37,8 +38,8 @@
       <file leaf-file-name="sts9_setlist_web_scraper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1578">
-              <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="51" />
+            <state relative-caret-position="374">
+              <caret line="103" column="31" lean-forward="false" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
               <folding>
                 <element signature="e#70#101#0" expanded="true" />
               </folding>
@@ -174,6 +175,17 @@
             <path>
               <item name="sts9_setlist_scraper" type="b2602c69:ProjectViewProjectNode" />
               <item name="sts9_setlist_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sts9_setlist_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sts9_setlist_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sts9_setlist_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sts9_setlist_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="URL" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -444,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518645181577</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Version 1.1 - Added OG setlist">
+      <created>1518650967792</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1518650967792</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -465,7 +484,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36958763" sideWeight="0.5020855" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369035" sideWeight="0.4979145" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369035" sideWeight="0.4979145" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28632027" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -866,25 +885,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="25" />
-          <folding>
-            <element signature="e#68#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -908,10 +909,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="25" />
+          <folding>
+            <element signature="e#68#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1578">
-          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="51" />
+        <state relative-caret-position="374">
+          <caret line="103" column="31" lean-forward="false" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
           <folding>
             <element signature="e#70#101#0" expanded="true" />
           </folding>

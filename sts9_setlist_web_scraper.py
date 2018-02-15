@@ -73,6 +73,10 @@ def scrape_setlist(html):
     except AttributeError:
         og_setlist = ''
 
+    #Scrape Image URL#
+
+    image_url = html.find('img', {'id': 'featured-image'})['src']
+
     #visible output for dubugging parsing errors
 
     print(pre_songs)
@@ -80,6 +84,8 @@ def scrape_setlist(html):
     print(setlist)
 
     print(og_setlist)
+
+    print(image_url)
 
     print('\n')
 
@@ -94,7 +100,8 @@ def scrape_setlist(html):
             'city': city,
             'state': state,
             'setlist': setlist,
-            'og_setlist': og_setlist}
+            'og_setlist': og_setlist,
+            'image': image_url}
 
     #submit to database
 
