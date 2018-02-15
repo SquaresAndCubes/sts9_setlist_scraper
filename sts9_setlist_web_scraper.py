@@ -7,7 +7,7 @@ import urllib.request
 
 #####CONNECT TO SETLISTS COLLECTION ON sts9_db###
 
-mongo_client = MongoClient('labops-bldr-lnx', 27017)
+mongo_client = MongoClient('10.0.0.36', 27017)
 
 sts9db = mongo_client.sts9_db.setlists
 
@@ -57,7 +57,7 @@ def scrape_setlist(html):
     pre_setlist = []
 
     for td in html.find_all('td', {'class': 'play'}):
-        pre_songs.append(td.next_sibling.next_sibling.text.replace('(1)','').replace('(2)','').strip())
+        pre_songs.append(td.next_sibling.next_sibling.text.replace('(1)','').replace('(2)','').replace('(3)','').replace('(*)','').replace('(4)','').strip())
 
     for song in pre_songs:
         pre_setlist.extend([x.strip() for x in song.split('>')])
@@ -74,8 +74,10 @@ def scrape_setlist(html):
         og_setlist = ''
 
     #Scrape Image URL#
-
-    image_url = html.find('img', {'id': 'featured-image'})['src']
+    try:
+        image_url = html.find('img', {'id': 'featured-image'})['src']
+    except TypeError:
+        image_url = '//vollrath.com/ClientCss/images/VollrathImages/No_Image_Available.jpg'
 
     #visible output for dubugging parsing errors
 
@@ -91,7 +93,9 @@ def scrape_setlist(html):
 
     print('\n')
 
+    image_file = yyyy + '_' + mm + '_' + dd + '_' + venue + '_' + city + '_' + state + '.jpg'
 
+    print(image_file)
 
     #Show Object for DB submission
 
@@ -103,19 +107,21 @@ def scrape_setlist(html):
             'state': state,
             'setlist': setlist,
             'og_setlist': og_setlist,
-            'image': image_url}
+            'image_url': image_url,
+            'image_file': image_file}
 
     #submit to database
 
     sts9db.insert_one(show)
 
-    urllib.request.urlretrieve('http:'+image_url, 'IMAGES/'+yyyy+'_'+mm+'_'+dd+'_'+venue+'_'+city+'_'+state+'.jpg')
+
+    urllib.request.urlretrieve('http:'+image_url, 'IMAGES/'+image_file)
 
 # main loop for cycling through multiple html files
 
 ##SET LIST URL##
 
-in_url = open('urls2.txt')
+in_url = open('urls.txt')
 
 for line in in_url:
 

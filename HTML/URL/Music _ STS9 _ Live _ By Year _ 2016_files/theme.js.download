@@ -1990,7 +1990,7 @@ function initMap(tours){
     	var contentString = '<div id="map-box">'+'<h3 class="venueName">'+venue+'</h3>'+'</div>';
 
 
-	    var image = '//cdn.shopify.com/s/files/1/0251/1873/t/15/assets/sts9marker.png?18431228257358737111';
+	    var image = '//cdn.shopify.com/s/files/1/0251/1873/t/15/assets/sts9marker.png?11885775257873490565';
         var marker = new google.maps.Marker({
           position: new google.maps.LatLng(tour['Lat'], tour['Lng']),
           map: map,
