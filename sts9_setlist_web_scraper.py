@@ -109,7 +109,7 @@ def scrape_setlist(html):
 
     sts9db.insert_one(show)
 
-    urllib.request.urlretrieve('http:'+image_url, '/IMAGES/'+yyyy+'_'+mm+'_'+dd+'_'+venue+'_'+city+'_'+state+'.jpg')
+    urllib.request.urlretrieve('http:'+image_url, 'IMAGES/'+yyyy+'_'+mm+'_'+dd+'_'+venue+'_'+city+'_'+state+'.jpg')
 
 # main loop for cycling through multiple html files
 
