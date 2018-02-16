@@ -1,186 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py" line="123" />
+    <bookmark url="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py" line="133" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749d18ca-299a-4794-9ad4-0b1a576d658b" name="Default" comment="Image Saving Development">
       <change beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/1453353291357897" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/AuthenticationService.Authenticate" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/api.jquery-0ea851da22ae87c0290f4eeb24bc8b513ca182f3eb721d147c009ae0f5ce14f9.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/common.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/cookie.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/dc.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/dialog.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/express_buttons-05ef7a38ce9a93f17ca57ba358be2d758d95079fd02789df75656cdcb8d3dbfc.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/fbevents.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/freeshippingbar.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_02d01c57-a710-416b-830d-c7bcd6e2b51a_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_02f83472-f915-4912-b32a-ed100d00495d_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_08946836-bc12-4044-84f5-88dd3f2db3ed_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_0a12e928-c4ed-428f-aa88-18f92e22036d_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_0a7099ad-3aba-4551-ad71-1b2f83293c51_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_0e1daf4b-bc67-4dba-8fd3-cb72a0dd552e_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_0fffce4a-a44d-4cbb-9eb8-d23e9155705b_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_159e5240-eabd-4c1d-b531-6dc1a57cae9d_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_18bad260-3ab6-4f87-85f0-598c802f0c87_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_315ec6ce-a024-4f52-af75-67c4d94c4e55_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_37f4a05f-e68e-4222-9799-0496601d9bfb_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_43605252-f01e-462f-bbab-049a663bc997_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_44681d8e-9251-46a6-8ef7-ef7e0828b062_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_4a120905-888a-45ae-90bb-85dd6b13a706_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_4b8103a9-d364-48e2-a281-8085b080d715_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_4bbb97b7-d462-42bb-8ac5-84e056e09bb0_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_4bee8192-7d87-40b8-9618-05f3ca36a939_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_540474a2-77e6-4fd8-af43-46ad8c3fefd4_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_58516f77-1ac0-4f8b-8320-9ce0b354d160_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_5b8476bd-fcd3-42c1-881d-3e6166bedbe1_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_6334481e-d8e7-4ab9-885c-4080288eeed8_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_64e2667e-0e65-40de-bb96-c08b410d8c3e_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_64f38c11-2c48-456b-8bf5-9127c62fa986_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_6d6c0c24-7e30-4b9d-95c2-d80905bddfe2_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_758f3638-797e-48bc-bf8b-e98225d73ec6_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_7a592599-3b9c-4a89-a457-83b3e12fba5f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_7f1bd5c5-39c6-4946-bc07-011fd226020d_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_85181383-27b7-4c39-93a9-1b5a3d174cca_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_852815e7-e07f-4759-9fe3-1e4a25f9ae85_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_89ad6f06-d127-4a0a-a7bd-23f991247571_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_89ba6666-da94-4692-a265-45d51e2298a7_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_89cab0e5-eb47-4ba9-b4a8-6f66c04acc6c_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_8a86c32e-1fe9-4d82-bcd6-19747214e2e0_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_8e89adae-8813-4e0b-8a46-4c3ae9ccb9a9_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_90f554b8-d52b-4b43-9f28-e41bd4c382cb_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_92d6c50e-2545-468d-ae3d-48b1340f308f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_a25ffa50-149c-4c6c-9f29-2ba0437b304b_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_a3c6c152-37bc-43cf-bff9-b10ae12d4d96_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_afb6c950-d04c-4adc-91b3-4ad155b5c81f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_b5c5e72d-877f-44d9-a26d-8e1daf3235a4_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_b773430c-c301-4f09-b8c6-e9e28de6e1db_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_b7dc84a7-e45c-4576-9703-7cbadfef4dbe_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_bf3715b4-4fc1-4faa-9f4f-d0c8bc30140b_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_bfe3091f-6c73-4b0e-875d-3b75641e4977_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_c52a0d7f-6cec-4140-8c6e-eb587b58bfcb_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_c68df4c2-7c2e-4a5e-9e33-461bd10471d8_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_cb7c9a59-35dd-4796-8b8b-cfe656c1db08_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_ce55c9d6-d5ad-4964-a987-d15ea24d2438_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_d0bdcb6e-550c-4116-a96c-83d5a244a8fb_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_d2d496f9-0239-469a-a1af-2717903198d6_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_d2f1c966-2d86-41e4-b944-8abde7a2fb2e_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_dca43c6f-f2e8-4965-b305-a0fc485265be_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_ddfdfb0e-b344-4ffa-a4b8-01317f55eb6f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_e1ddfd6d-9e5a-4561-9fe7-3be881166e23_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_e5bfdb6a-c405-4aa3-abd0-15cffc09bbd0_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_e8b162a9-c937-4791-abdc-62e3b6d68bcc_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_ebf3cd02-8871-4ede-9342-ea16a8b6759f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_f96b82a3-1b05-4196-8501-d859f1d56e2c_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/image_fe66dfe0-63c1-41dc-b81f-a4dbb9ee1bd4_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/jquery.min.js(1).download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/jquery.min.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/main-7aa8eda733e48c292300587e6a9043d667afe92ddcd61e8e790be8bf0091985d.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/mobiletest.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/modernizr.min.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/powr.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/scripts-ef7820ac96d3425d0d0a181c414b091a5221a4e5492c2de2715b880c391d17e9.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/stats.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/theme.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/theme.scss.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/tours.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/trekkie.storefront.min.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2016_files/util.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/1453353291357897" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/STS9-LiveSet_12.31.17-SFC_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/api.jquery-0ea851da22ae87c0290f4eeb24bc8b513ca182f3eb721d147c009ae0f5ce14f9.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/common.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/cookie.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/dc.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/dialog.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/express_buttons-05ef7a38ce9a93f17ca57ba358be2d758d95079fd02789df75656cdcb8d3dbfc.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/fbevents.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/freeshippingbar.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_0299aff7-1fdb-4a67-ad32-d61eeae3f778_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_05e4722b-e5ad-43d7-a771-f8f3d70a5416_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_0b8c1800-a7c9-4e76-a192-a6adfd4dd86e_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_12c46ff8-dc74-45e3-8265-9fd7ca50ba73_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_1406b7cb-4166-4a11-abb2-6b6066c7ab5e_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_151b7c82-44b9-456b-8654-b1312081db6d_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_19a94852-848d-4be6-b306-6fdc5db0cdd3_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_19b90b33-1ad6-422d-b67a-2d9dfca3276a_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_1a3674a5-803c-4f8e-b85e-e8ec62d75038_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_1e44ef3c-08f0-4756-90fb-f6376a36c87d_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_25a43a82-ad9a-4acf-a33b-e96c6e0f0fb4_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_2c6d3d4e-1810-4571-9feb-27cfd0e6c31e_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_2d75439f-c35e-4d3b-920e-77919285adc6_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_312eb42e-4f9f-436c-b5ae-8dd46190780d_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_33076bdb-687c-48c5-b471-f1265445c657_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_390c107d-5581-4cf1-8ede-73ba7282dc77_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_3c53f9bc-5dde-48d4-ae34-bb467521b6a6_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_404f2c44-5405-4c41-947d-2d70b5b77230_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_5536ffcc-efde-41e3-ba5c-b35f03116964_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_5bc2a263-6578-496d-a289-9c8f2fab9a96_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_5e862a37-f335-4129-8c6c-31c68820fcb1_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_60127c8f-d666-4e30-91e1-6025f0940b3b_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_71213a2f-7078-4c15-bdf5-d7638cd4a575_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_7290f764-727f-4639-8896-4b108828f644_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_77295c8a-74d7-4291-8a1e-5c0cc9f5e6c2_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_79c43b59-180e-4276-8cbc-1b2945964a6a_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_8099aeba-48d5-4a00-a9aa-2e94cd5a0198_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_81ddb3f4-9824-453c-8195-ee42b9cce609_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_8f13f518-4137-40fc-a3c8-0f5897f7a281_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_8fa6893c-d6d2-47c6-89d4-274dabe3f927_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_9de958f5-d40b-4991-8f2f-831245384b53_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_a57e5ded-ec23-4896-bd06-dc7b1d3ef9c5_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_addc3f63-7d52-4f2c-8dc3-d1c5f769c258_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_aeb7c902-6f58-4011-ab77-8a38cff9295c_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_b4333b99-0752-4376-947f-b8c190b1f770_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_b59e5c2f-b188-4fea-bae2-657504d9a09b_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_b90c693b-828b-4793-b860-61d5fe321dc6_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_b963ac76-8620-4039-8291-913b3774d62f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_c51ed4ce-f6b7-4353-b6fc-f98ce9461ab9_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_c629f1f4-ce5b-44cd-8284-1a533db84a2f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_c6f054b8-312c-4005-8826-123898de26fd_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_cba816b2-d347-4592-a9e3-5f6936dbdb1f_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_cbf004dc-e5ca-4945-9929-1c3ce128c3cd_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_cd440d28-7d96-4829-9f22-41111e5f9f88_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_d45f1dce-5207-43f4-83ca-413ab69d0c78_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_d56868be-4fb9-4dbf-a9fa-621ab306a2d0_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_d5c9b2fa-6f71-4662-9257-e0117b725167_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_df2b0f9f-c65d-4ea1-8c2b-4fabd7a2027a_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_e3bebe89-797c-4e8d-8f1a-329bac69c1df_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_e51c7fbe-0acf-4b9c-8311-abdb5031f26e_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_ebb0178a-ce2b-4bdc-b196-f8f08a7b4268_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_ebecfdfa-eca6-480d-8688-829a64bf5d62_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_f3f8497a-e266-41fe-8c41-28deafe4a6b7_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_f458ade4-593a-4b8e-93c3-c8a7af7562da_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_f59afc31-c8b8-4484-8016-592a4fb9f6e0_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/image_f8ea2aa7-e1f2-4f75-bb02-7f80da9f4e5b_grande.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/jquery.min.js(1).download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/jquery.min.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/main-7aa8eda733e48c292300587e6a9043d667afe92ddcd61e8e790be8bf0091985d.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/mobiletest.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/modernizr.min.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/powr.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/scripts-ef7820ac96d3425d0d0a181c414b091a5221a4e5492c2de2715b880c391d17e9.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/stats.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/theme.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/theme.scss.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/tours.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/trekkie.storefront.min.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HTML/URL/Music _ STS9 _ Live _ By Year _ 2017_files/util.js.download" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sts9_setlist_scraper.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sts9_setlist_url_gen.py" afterPath="$PROJECT_DIR$/sts9_setlist_url_gen.py" />
       <change beforePath="$PROJECT_DIR$/sts9_setlist_web_scraper.py" afterPath="$PROJECT_DIR$/sts9_setlist_web_scraper.py" />
       <change beforePath="$PROJECT_DIR$/urls.txt" afterPath="$PROJECT_DIR$/urls.txt" />
       <change beforePath="$PROJECT_DIR$/urls2.txt" afterPath="$PROJECT_DIR$/urls2.txt" />
@@ -204,21 +31,11 @@
       <file leaf-file-name="sts9_setlist_web_scraper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="105" column="25" lean-forward="true" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+            <state relative-caret-position="1887">
+              <caret line="111" column="4" lean-forward="false" selection-start-line="111" selection-start-column="4" selection-end-line="125" selection-end-column="0" />
               <folding>
                 <element signature="e#70#101#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="1240" column="0" lean-forward="false" selection-start-line="1240" selection-start-column="0" selection-end-line="1240" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -233,18 +50,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/urls.txt">
+      <file leaf-file-name="urls2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urls2.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="771" column="0" lean-forward="false" selection-start-line="771" selection-start-column="0" selection-end-line="771" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="101" lean-forward="false" selection-start-line="0" selection-start-column="101" selection-end-line="0" selection-end-column="101" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/urls2.txt">
+      <file leaf-file-name="urls.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urls.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -256,8 +73,8 @@
       <file leaf-file-name="sts9_setlist_url_gen.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -290,6 +107,8 @@
       <find>2010</find>
       <find>2008-11-14</find>
       <find>2004-09-23</find>
+      <find>freq</find>
+      <find>2016-10-22</find>
     </findStrings>
     <dirStrings>
       <dir>D:\FILES\All Things STS9 Project\Python</dir>
@@ -311,10 +130,10 @@
         <option value="$PROJECT_DIR$/htmlSoup.py" />
         <option value="$PROJECT_DIR$/HTML/sts9_setlist_url_gen.py" />
         <option value="$PROJECT_DIR$/sts9_setlist_scraper.py" />
-        <option value="$PROJECT_DIR$/urls2.txt" />
         <option value="$PROJECT_DIR$/sts9_setlist_url_gen.py" />
-        <option value="$PROJECT_DIR$/sts9_setlist_web_scraper.py" />
+        <option value="$PROJECT_DIR$/urls2.txt" />
         <option value="$PROJECT_DIR$/urls.txt" />
+        <option value="$PROJECT_DIR$/sts9_setlist_web_scraper.py" />
       </list>
     </option>
   </component>
@@ -324,10 +143,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1910" />
-    <option name="width" value="1940" />
-    <option name="height" value="2110" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -345,7 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,16 +173,11 @@
               <item name="sts9_setlist_scraper" type="b2602c69:ProjectViewProjectNode" />
               <item name="sts9_setlist_scraper" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sts9_setlist_scraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sts9_setlist_scraper" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -662,45 +477,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1910" y="0" width="1940" height="2110" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36958763" sideWeight="0.5020855" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36958763" sideWeight="0.4979145" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22419186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32873806" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39989707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36958763" sideWeight="0.5020855" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36958763" sideWeight="0.4979145" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24244004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39989707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -748,14 +550,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -774,14 +569,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -800,14 +588,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -826,14 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1240">
@@ -852,14 +626,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="26" column="76" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -878,14 +645,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" column="76" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -904,14 +664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -944,14 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -962,14 +708,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" column="76" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
     <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py" />
     <entry file="file://$PROJECT_DIR$/urls2.txt" />
     <entry file="file://$PROJECT_DIR$/urls.txt" />
@@ -1000,6 +739,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IMAGES/2017_08_19_Oregon Eclipse_Big Prairie_OR.jpg" />
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py" />
+    <entry file="file://$PROJECT_DIR$/IMAGES/2017_08_20_Oregon Eclipse_Big Prairie_OR.jpg" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="1240" column="0" lean-forward="false" selection-start-line="1240" selection-start-column="0" selection-end-line="1240" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pipfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1011,52 +759,31 @@
     <entry file="file://$PROJECT_DIR$/urls2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMAGES/2017_08_20_Oregon Eclipse_Big Prairie_OR.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="1240" column="0" lean-forward="false" selection-start-line="1240" selection-start-column="0" selection-end-line="1240" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+          <caret line="0" column="101" lean-forward="false" selection-start-line="0" selection-start-column="101" selection-end-line="0" selection-end-column="101" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/urls.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="771" column="0" lean-forward="false" selection-start-line="771" selection-start-column="0" selection-end-line="771" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sts9_setlist_url_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sts9_setlist_web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="105" column="25" lean-forward="true" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+        <state relative-caret-position="1887">
+          <caret line="111" column="4" lean-forward="false" selection-start-line="111" selection-start-column="4" selection-end-line="125" selection-end-column="0" />
           <folding>
             <element signature="e#70#101#0" expanded="true" />
           </folding>

@@ -59,8 +59,18 @@ def scrape_setlist(html):
     for td in html.find_all('td', {'class': 'play'}):
         pre_songs.append(td.next_sibling.next_sibling.text.replace('(1)','').replace('(2)','').replace('(3)','').replace('(*)','').replace('(4)','').strip())
 
+    ##Split songs by >###
+
     for song in pre_songs:
-        pre_setlist.extend([x.strip() for x in song.split('>')])
+        if 'Frequencies' in song:
+            pre_setlist.append(song)
+        else:
+            pre_setlist.extend([x.strip() for x in song.split('>')])
+
+    for sng in pre_setlist:
+        print(sng)
+
+    print('\n')
 
     #remove duplicates finalizing setlist list
 
@@ -114,8 +124,7 @@ def scrape_setlist(html):
 
     sts9db.insert_one(show)
 
-
-    urllib.request.urlretrieve('http:'+image_url, 'IMAGES/'+image_file)
+    # urllib.request.urlretrieve('http:'+image_url, 'IMAGES/'+image_file)
 
 # main loop for cycling through multiple html files
 
