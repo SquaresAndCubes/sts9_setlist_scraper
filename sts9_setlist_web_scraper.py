@@ -7,7 +7,7 @@ import urllib.request
 
 #####CONNECT TO SETLISTS COLLECTION ON sts9_db###
 
-mongo_client = MongoClient('labops-bldr-lnx', 27017)
+mongo_client = MongoClient('<host_name>', 27017)
 
 sts9db = mongo_client.sts9_db.setlists
 
